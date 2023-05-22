@@ -1,13 +1,16 @@
 ﻿<Properties StartupConfiguration="{FE9354DC-2189-450F-8839-4873B4F630D1}|https">
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="ECommerce.Web/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.ECommerce.Web PreferredExecutionTarget="/Applications/Yandex.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ECommerce.Web/appsettings.json">
     <Files>
-      <File FileName="ECommerce.Web/appsettings.json" Line="3" Column="5" />
-      <File FileName="ECommerce.Web/Data/VtContext.cs" Line="13" Column="1" />
+      <File FileName="ECommerce.Web/appsettings.json" Line="14" Column="1" />
+      <File FileName="ECommerce.Web/Data/VtContext.cs" />
       <File FileName="ECommerce.Web/Models/Category.cs" />
-      <File FileName="ECommerce.Web/Program.cs" Line="24" Column="22" />
+      <File FileName="ECommerce.Web/Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,14 +20,12 @@
               <Node name="Controllers" expanded="True" />
               <Node name="Data" expanded="True" />
               <Node name="Models" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ECommerce.Web PreferredExecutionTarget="/Applications/Yandex.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
