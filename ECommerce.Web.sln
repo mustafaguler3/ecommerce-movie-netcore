@@ -5,6 +5,12 @@ VisualStudioVersion = 25.0.1705.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.Web", "ECommerce.Web\ECommerce.Web.csproj", "{FE9354DC-2189-450F-8839-4873B4F630D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.DataAccess", "ECommerce.DataAccess\ECommerce.DataAccess.csproj", "{C5E11AA0-B7D6-4A70-B882-97E4CD932521}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.Entity", "ECommerce.Entity\ECommerce.Entity.csproj", "{BE9390A4-4831-40E7-828D-B2267F6A7043}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.Utility", "ECommerce.Utility\ECommerce.Utility.csproj", "{A426584A-BB5D-4030-AC22-16A5C7D500E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{FE9354DC-2189-450F-8839-4873B4F630D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE9354DC-2189-450F-8839-4873B4F630D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE9354DC-2189-450F-8839-4873B4F630D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5E11AA0-B7D6-4A70-B882-97E4CD932521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5E11AA0-B7D6-4A70-B882-97E4CD932521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5E11AA0-B7D6-4A70-B882-97E4CD932521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5E11AA0-B7D6-4A70-B882-97E4CD932521}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE9390A4-4831-40E7-828D-B2267F6A7043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE9390A4-4831-40E7-828D-B2267F6A7043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE9390A4-4831-40E7-828D-B2267F6A7043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE9390A4-4831-40E7-828D-B2267F6A7043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A426584A-BB5D-4030-AC22-16A5C7D500E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A426584A-BB5D-4030-AC22-16A5C7D500E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A426584A-BB5D-4030-AC22-16A5C7D500E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A426584A-BB5D-4030-AC22-16A5C7D500E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
