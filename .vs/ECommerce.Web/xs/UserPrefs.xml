@@ -1,31 +1,46 @@
 ﻿<Properties StartupConfiguration="{FE9354DC-2189-450F-8839-4873B4F630D1}|https">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.ECommerce.Web PreferredExecutionTarget="/Applications/Yandex.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ECommerce.Web/appsettings.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ECommerce.Web/Controllers/CategoryController.cs">
     <Files>
-      <File FileName="ECommerce.Web/appsettings.json" Line="14" Column="1" />
-      <File FileName="ECommerce.Web/Data/VtContext.cs" />
-      <File FileName="ECommerce.Web/Models/Category.cs" />
-      <File FileName="ECommerce.Web/Program.cs" />
+      <File FileName="ECommerce.Web/Controllers/CategoryController.cs" Line="43" Column="1" />
+      <File FileName="ECommerce.Web/Views/Category/Index.cshtml" Line="7" Column="28" />
+      <File FileName="ECommerce.Web/Views/Shared/_Layout.cshtml" Line="14" Column="119" />
+      <File FileName="ECommerce.Web/Views/Category/Create.cshtml" Line="8" Column="7" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ECommerce.Web" expanded="True">
             <Node name="ECommerce.Web" expanded="True">
-              <Node name="Controllers" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="CategoryController.cs" selected="True" />
+              </Node>
               <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
               <Node name="Models" expanded="True" />
-              <Node name="appsettings.json" selected="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Category" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="lib" expanded="True">
+                  <Node name="bootstrap" expanded="True">
+                    <Node name="dist" expanded="True">
+                      <Node name="css" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ECommerce.Web PreferredExecutionTarget="/Applications/Yandex.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
