@@ -1,0 +1,15 @@
+/Users/mustafa/Projects/ECommerce.Web/ECommerce.DataAccess/bin/Debug/net7.0/ECommerce.DataAccess.deps.json
+/Users/mustafa/Projects/ECommerce.Web/ECommerce.DataAccess/bin/Debug/net7.0/ECommerce.DataAccess.dll
+/Users/mustafa/Projects/ECommerce.Web/ECommerce.DataAccess/bin/Debug/net7.0/ECommerce.DataAccess.pdb
+/Users/mustafa/Projects/ECommerce.Web/ECommerce.DataAccess/bin/Debug/net7.0/ECommerce.Entity.dll
+/Users/mustafa/Projects/ECommerce.Web/ECommerce.DataAccess/bin/Debug/net7.0/ECommerce.Entity.pdb
+/Users/mustafa/Projects/ECommerce.Web/ECommerce.DataAccess/obj/Debug/net7.0/ECommerce.DataAccess.csproj.AssemblyReference.cache
+/Users/mustafa/Projects/ECommerce.Web/ECommerce.DataAccess/obj/Debug/net7.0/ECommerce.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafa/Projects/ECommerce.Web/ECommerce.DataAccess/obj/Debug/net7.0/ECommerce.DataAccess.AssemblyInfoInputs.cache
+/Users/mustafa/Projects/ECommerce.Web/ECommerce.DataAccess/obj/Debug/net7.0/ECommerce.DataAccess.AssemblyInfo.cs
+/Users/mustafa/Projects/ECommerce.Web/ECommerce.DataAccess/obj/Debug/net7.0/ECommerce.DataAccess.csproj.CoreCompileInputs.cache
+/Users/mustafa/Projects/ECommerce.Web/ECommerce.DataAccess/obj/Debug/net7.0/ECommerce.DataAccess.csproj.CopyComplete
+/Users/mustafa/Projects/ECommerce.Web/ECommerce.DataAccess/obj/Debug/net7.0/ECommerce.DataAccess.dll
+/Users/mustafa/Projects/ECommerce.Web/ECommerce.DataAccess/obj/Debug/net7.0/refint/ECommerce.DataAccess.dll
+/Users/mustafa/Projects/ECommerce.Web/ECommerce.DataAccess/obj/Debug/net7.0/ECommerce.DataAccess.pdb
+/Users/mustafa/Projects/ECommerce.Web/ECommerce.DataAccess/obj/Debug/net7.0/ref/ECommerce.DataAccess.dll

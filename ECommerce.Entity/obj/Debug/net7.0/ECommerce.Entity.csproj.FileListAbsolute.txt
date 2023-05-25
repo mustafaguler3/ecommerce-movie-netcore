@@ -1,0 +1,12 @@
+/Users/mustafa/Projects/ECommerce.Web/ECommerce.Entity/bin/Debug/net7.0/ECommerce.Entity.deps.json
+/Users/mustafa/Projects/ECommerce.Web/ECommerce.Entity/bin/Debug/net7.0/ECommerce.Entity.dll
+/Users/mustafa/Projects/ECommerce.Web/ECommerce.Entity/bin/Debug/net7.0/ECommerce.Entity.pdb
+/Users/mustafa/Projects/ECommerce.Web/ECommerce.Entity/obj/Debug/net7.0/ECommerce.Entity.csproj.AssemblyReference.cache
+/Users/mustafa/Projects/ECommerce.Web/ECommerce.Entity/obj/Debug/net7.0/ECommerce.Entity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafa/Projects/ECommerce.Web/ECommerce.Entity/obj/Debug/net7.0/ECommerce.Entity.AssemblyInfoInputs.cache
+/Users/mustafa/Projects/ECommerce.Web/ECommerce.Entity/obj/Debug/net7.0/ECommerce.Entity.AssemblyInfo.cs
+/Users/mustafa/Projects/ECommerce.Web/ECommerce.Entity/obj/Debug/net7.0/ECommerce.Entity.csproj.CoreCompileInputs.cache
+/Users/mustafa/Projects/ECommerce.Web/ECommerce.Entity/obj/Debug/net7.0/ECommerce.Entity.dll
+/Users/mustafa/Projects/ECommerce.Web/ECommerce.Entity/obj/Debug/net7.0/refint/ECommerce.Entity.dll
+/Users/mustafa/Projects/ECommerce.Web/ECommerce.Entity/obj/Debug/net7.0/ECommerce.Entity.pdb
+/Users/mustafa/Projects/ECommerce.Web/ECommerce.Entity/obj/Debug/net7.0/ref/ECommerce.Entity.dll

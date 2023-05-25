@@ -11,12 +11,14 @@
     <None Remove="Migrations\" />
     <None Remove="Abstract\" />
     <None Remove="Concrete\" />
+    <None Remove="UnitOfWork\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Data\" />
     <Folder Include="Migrations\" />
     <Folder Include="Abstract\" />
     <Folder Include="Concrete\" />
+    <Folder Include="UnitOfWork\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.5" />
