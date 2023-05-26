@@ -1,49 +1,45 @@
 ﻿<Properties StartupConfiguration="{FE9354DC-2189-450F-8839-4873B4F630D1}|https">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="ECommerce.Web/Areas/Admin/Views/Product/Create.cshtml">
+  <MonoDevelop.Ide.ItemProperties.ECommerce.Web PreferredExecutionTarget="/Applications/Yandex.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ECommerce.Web/Program.cs">
     <Files>
-      <File FileName="ECommerce.Web/Areas/Admin/Controllers/ProductController.cs" Line="58" Column="14" />
-      <File FileName="ECommerce.Web/Areas/Admin/Views/Product/Create.cshtml" Line="3" Column="1" />
-      <File FileName="ECommerce.Web/ViewModels/ProductViewModel.cs" Line="10" Column="1" />
+      <File FileName="ECommerce.Web/wwwroot/js/product.js" Line="20" Column="95" />
+      <File FileName="ECommerce.Web/Areas/Admin/Controllers/ProductController.cs" Line="159" Column="29" />
+      <File FileName="ECommerce.Web/Areas/Admin/Views/Category/Delete.cshtml" Line="1" Column="31" />
+      <File FileName="ECommerce.Web/Program.cs" Line="34" Column="24" />
+      <File FileName="ECommerce.Web/Areas/Customer/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="ECommerce.Web/Areas/Customer/Views/Home/Privacy.cshtml" Line="8" Column="1" />
+      <File FileName="ECommerce.Web/Areas/Customer/Controllers/HomeController.cs" Line="8" Column="41" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ECommerce.Web" expanded="True">
-            <Node name="ECommerce.Entity" expanded="True">
-              <Node name="Entity" expanded="True" />
-            </Node>
             <Node name="ECommerce.Web" expanded="True">
               <Node name="Areas" expanded="True">
                 <Node name="Admin" expanded="True">
                   <Node name="Controllers" expanded="True" />
-                  <Node name="Views" expanded="True">
-                    <Node name="Category" expanded="True" />
-                    <Node name="Product" expanded="True">
-                      <Node name="Create.cshtml" selected="True" />
-                    </Node>
-                  </Node>
+                  <Node name="Views" expanded="True" />
                 </Node>
                 <Node name="Customer" expanded="True">
                   <Node name="Controllers" expanded="True" />
-                  <Node name="Views" expanded="True" />
+                  <Node name="Views" expanded="True">
+                    <Node name="Home" expanded="True" />
+                  </Node>
                 </Node>
               </Node>
-              <Node name="Models" expanded="True" />
-              <Node name="ViewModels" expanded="True" />
+              <Node name="Controllers" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Shared" expanded="True" />
               </Node>
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.ECommerce.Web PreferredExecutionTarget="/Applications/Yandex.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

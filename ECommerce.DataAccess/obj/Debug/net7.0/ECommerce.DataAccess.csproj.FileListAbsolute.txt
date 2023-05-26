@@ -13,3 +13,5 @@
 /Users/mustafa/Projects/ECommerce.Web/ECommerce.DataAccess/obj/Debug/net7.0/refint/ECommerce.DataAccess.dll
 /Users/mustafa/Projects/ECommerce.Web/ECommerce.DataAccess/obj/Debug/net7.0/ECommerce.DataAccess.pdb
 /Users/mustafa/Projects/ECommerce.Web/ECommerce.DataAccess/obj/Debug/net7.0/ref/ECommerce.DataAccess.dll
+/Users/mustafa/Projects/ECommerce.Web/ECommerce.DataAccess/bin/Debug/net7.0/ECommerce.DataAccess.runtimeconfig.json
+/Users/mustafa/Projects/ECommerce.Web/ECommerce.DataAccess/obj/Debug/net7.0/ECommerce.DataAccess.genruntimeconfig.cache

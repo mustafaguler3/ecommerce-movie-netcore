@@ -8,14 +8,12 @@
 
   <ItemGroup>
     <None Remove="Data\" />
-    <None Remove="Migrations\" />
     <None Remove="Abstract\" />
     <None Remove="Concrete\" />
     <None Remove="UnitOfWork\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Data\" />
-    <Folder Include="Migrations\" />
     <Folder Include="Abstract\" />
     <Folder Include="Concrete\" />
     <Folder Include="UnitOfWork\" />
@@ -23,6 +21,14 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.5" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.5">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.5">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ECommerce.Entity\ECommerce.Entity.csproj" />
